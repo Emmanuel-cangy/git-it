@@ -2,11 +2,12 @@
 
 This is a Phrase
 
-- [] Do you see this checkbox ?
+- [ ] Do you see this checkbox ?
 
-|Header|Title|
-|Paragraph|Text|
-|Boolean|True/False|
+  | Syntax | Description |
+  |Header|Title|
+  |Paragraph|Text|
+  |Boolean|True/False|
 
 ```Javascript
   Console.log('Hello Michael')
