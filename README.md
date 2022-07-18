@@ -2,7 +2,7 @@
 
 This is a Phrase
 
-- [ ] Do you see this checkbox ?
+- [x] Do you see this checkbox ?
 
   | Syntax    | Description |
   | --------- | ----------- |
